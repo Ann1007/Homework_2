@@ -1,7 +1,7 @@
-package by.tsuprikova;
+package by.tsuprikova.salonOfBeauty;
 
 import by.tsuprikova.Client;
-import by.tsuprikova.IBeautySalon;
+import by.tsuprikova.Service;
 import by.tsuprikova.masters.*;
 
 public class SalonOfBeautyByIfImpl implements IBeautySalon {

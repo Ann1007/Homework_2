@@ -10,7 +10,7 @@ public class MasterOfManicure implements IMaster {
     }
 
     @Override
-    public Service myService() {
+    public Service getService() {
         return Service.MANICURE;
     }
 }

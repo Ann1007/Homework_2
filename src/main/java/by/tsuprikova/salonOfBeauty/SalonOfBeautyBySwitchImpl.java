@@ -1,5 +1,6 @@
-package by.tsuprikova;
+package by.tsuprikova.salonOfBeauty;
 
+import by.tsuprikova.Client;
 import by.tsuprikova.masters.*;
 
 public class SalonOfBeautyBySwitchImpl implements IBeautySalon {

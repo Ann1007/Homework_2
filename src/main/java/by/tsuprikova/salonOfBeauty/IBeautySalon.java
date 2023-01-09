@@ -1,4 +1,6 @@
-package by.tsuprikova;
+package by.tsuprikova.salonOfBeauty;
+
+import by.tsuprikova.Client;
 
 public interface IBeautySalon {
 

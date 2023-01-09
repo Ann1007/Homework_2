@@ -6,6 +6,6 @@ import by.tsuprikova.Service;
 public interface IMaster {
 
     void doService(Client client);
-    Service myService();
+    Service getService();
 
 }

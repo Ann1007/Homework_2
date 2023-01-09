@@ -11,7 +11,7 @@ public class MakeupArtist implements IMaster {
     }
 
     @Override
-    public Service myService() {
+    public Service getService() {
         return Service.MAKE_UP;
     }
 }

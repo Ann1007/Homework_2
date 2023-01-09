@@ -11,7 +11,7 @@ public class Masseur implements IMaster {
     }
 
     @Override
-    public Service myService() {
+    public Service getService() {
         return Service.MASSAGE;
     }
 }

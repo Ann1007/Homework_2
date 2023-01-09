@@ -11,7 +11,7 @@ public class DefaultMaster implements IMaster {
     }
 
     @Override
-    public Service myService() {
+    public Service getService() {
         return Service.OTHER;
     }
 }
